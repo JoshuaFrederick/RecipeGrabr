@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "RecipeGrabr",
+  "version": "1.0",
+  "description": "Extract recipes from websites and save in desired format and/or application.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Extract Recipe"
+  },
+  "host_permissions": ["<all_urls>"],
+  "icons": {
+    "48": "./icons/RecipeGrabr48.png",
+    "64": "./icons/RecipeGrabr64.png",
+    "128": "./icons/RecipeGrabr128.png"
+  }
+}
