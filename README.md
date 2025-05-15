@@ -1,3 +1,3 @@
 # RecipeGrabr
 
-A web extension to grab recipes from website and download in markdown formar
+A web extension to grab recipes from websites and download in markdown format
